@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <title>Теги для разметки текста и атрибуты</title>
+    <title>Селекторы и свойства</title>
     <meta charset="UTF-8">
   </head>
   <body>  
